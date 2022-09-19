@@ -2,6 +2,7 @@ Group Name: ScrumBytes
 Group Number: 44
 
 Members:
+
         MALTITI MOHAMMED MUKADAS ABUBAKARI (10867070)
 
         JOJO OLUWAFERUNMI SHEMDZIN AIKINS (10869760)
